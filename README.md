@@ -11,31 +11,31 @@ Product Tab
 
 Member Tab
 
-![](Screenshots/2020-05-13 (3).png)
+![](Screenshots/2020-05-13%20(3).png)
 
 Statistic Tab
 
-![](Screenshots/2020-05-13 (8).png)
+![](Screenshots/2020-05-13%20(8).png)
 
 you can also use filters to find the product
 
-![](Screenshots/2020-05-13 (4).png)
+![](Screenshots/2020-05-13%20(4).png)
 
 click on add product in the toolbar to add product
 
-![](Screenshots/2020-05-13 (1).png)
+![](Screenshots/2020-05-13%20(1).png)
 
 click on add member in the toolbar to add member
 
-![](Screenshots/2020-05-13 (5).png)
+![](Screenshots/2020-05-13%20(5).png)
 
 you can update products and member
 
-![](Screenshots/2020-05-13 (2).png)
+![](Screenshots/2020-05-13%20(2).png)
 
 you can sell the product
 
-![](Screenshots/2020-05-13 (6).png)
+![](Screenshots/2020-05-13%20(6).png)
 
-![](Screenshots/2020-05-13 (7).png)
+![](Screenshots/2020-05-13%20(7).png)
 
