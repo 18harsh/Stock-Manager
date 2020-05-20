@@ -6,6 +6,7 @@ PYQt5
 sqlite3
 # Screenshots
 *Run The main.py File
+
 Product Tab
 ![](Screenshots/2020-05-13.png)
 
